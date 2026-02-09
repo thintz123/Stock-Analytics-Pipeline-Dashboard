@@ -30,3 +30,4 @@ python pipeline.py
 streamlit run app.py
 
 6. Open notebook notebooks/analysis.ipynb for additional analysis# Stock-Analytics-Pipeline-Dashboard
+# Stock-Analytics-Pipeline-Dashboard
