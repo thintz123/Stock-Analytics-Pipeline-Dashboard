@@ -1,10 +1,6 @@
 # Stock Analytics Dashboard
 
-End-to-end stock analytics pipeline:
-- Download multiple stock tickers using Yahoo Finance
-- Store in MySQL database
-- Analyze in Jupyter notebook
-- Interactive dashboard with Streamlit
+Stock Insight is an end-to-end stock analytics pipeline and dashboard built in Python. Download, store, analyze, and visualize historical stock prices for multiple tickers with interactive plots and summary statistics
 
 ## Setup
 
