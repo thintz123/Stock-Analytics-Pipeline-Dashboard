@@ -1,0 +1,5 @@
+pandas
+yfinance
+mysql-connector-python
+matplotlib
+streamlit
