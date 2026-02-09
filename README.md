@@ -29,4 +29,4 @@ python pipeline.py
 5. Launch Streamlit dashboard:
 streamlit run app.py
 
-6. Open notebook notebooks/analysis.ipynb for additional analysis
+6. Open notebook notebooks/analysis.ipynb for additional analysis# Stock-Analytics-Pipeline-Dashboard
