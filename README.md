@@ -1,6 +1,6 @@
 # Stock Analytics Dashboard
 
-Stock Insight is an end-to-end stock analytics pipeline and dashboard built in Python. Download, store, analyze, and visualize historical stock prices for multiple tickers with interactive plots and summary statistics
+Stock Insight is an end-to-end stock analytics pipeline and dashboard built in Python. Download, store, analyze, and visualize historical stock prices for multiple tickers with interactive plots and summary statistics.
 
 ## Setup
 
